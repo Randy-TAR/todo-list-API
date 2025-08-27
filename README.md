@@ -1,5 +1,5 @@
 1. Clone the repository:
-git clone https://github.com/your-username/todo-list-api.git
+git clone https://github.com/Randy-TAR/todo-list-API.git
 cd todo-list-api
 
 2. Create and activate a virtual environment
